@@ -1,4 +1,4 @@
-project-template
+Anomaly Detection using HTM
 ==============================
 
 template for the team to use
